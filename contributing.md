@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Make an individual pull request for each suggestion.
+- Link to the website or GitHub repo.
+- Check your spelling and grammar.
 
 Thank you for your suggestions!
 
