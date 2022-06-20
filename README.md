@@ -16,7 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 - [Tutorials](#tutorials)
 - [Drivers](#drivers)
 - [Applications](#applications)
-- [Contribute](#sontribute)
+- [Contribute](#contribute)
 
 
 ## Resources
