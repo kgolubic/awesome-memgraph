@@ -74,7 +74,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 - [How to Build a Flight Network Analysis Graph-Based ASP.NET Application with Memgraph, C#, and D3.js](https://memgraph.com/blog/how-to-build-a-flight-network-analysis-graph-asp-net-application-with-memgraph-c-sharp-and-d3-js).
 - [How to Develop a Credit Card Fraud Detection Application using Memgraph, Flask, and D3.js](https://memgraph.com/blog/how-to-develop-a-credit-card-fraud-detection-application-using-memgraph-flask-and-d3js).
 - [Identifying Essential Proteins using Betweenness Centrality & Memgraph MAGE](https://memgraph.com/blog/identifying-essential-proteins).
-- [Air Traffic Routing with  Memgraph](https://memgraph.com/blog/air-traffic-routing-with-memgraph).
 - [Exploring Interpersonal Relationships in the Bible](https://memgraph.com/blog/exploring-the-hebrew-bible-person-relationships).
 - [How to Implement Custom JSON Utility Procedures With Memgraph MAGE and Python](https://memgraph.com/blog/how-to-implement-custom-json-utility-procedures-with-memgraph-mage-and-python).
 - [How to Write Custom Cypher Procedures with NetworkX and Memgraph](https://memgraph.com/blog/how-to-write-custom-cypher-procedures-with-networkx-and-memgraph).
