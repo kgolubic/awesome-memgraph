@@ -25,7 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Documentation
 
-- [Memgraph documentation](https://memgraph.com/docs) — Guides, samples and references to analyze your data with Memgraph.
+- [Memgraph documentation](https://memgraph.com/docs)—Guides, samples and references to analyze your data with Memgraph.
 
 - [Getting started with Memgraph](https://memgraph.com/docs/memgraph) — Memgraph is the platform for graph computation on streaming data. It's an end-to-end platform designed to solve complex graph problems in real-time and accelerate graph application development.
 
