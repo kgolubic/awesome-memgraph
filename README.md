@@ -108,6 +108,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 - [Building a Recommendation System using Memgraph](https://memgraph.com/blog/building-a-recommendation-system-using-memgraph)
 - [How to Visualize a Social Network in Python with a Graph Database: Flask + Docker + D3.js](https://memgraph.com/blog/how-to-visualize-a-social-network-in-python-with-a-graph-database)
 
-## Contribute 
+## Contributing 
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
