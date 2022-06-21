@@ -1,6 +1,4 @@
-# Awesome Memgraph 
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Memgraph [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Memgraph resources, libraries, tools and applications.
 
