@@ -28,7 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Docker images
 
-- [Memgraph Docker images](https://hub.docker.com/u/memgraph).
+- [Memgraph Docker images](https://hub.docker.com/u/memgraph)
 
 ### Tools
 
