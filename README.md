@@ -73,10 +73,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 - [Building a BitClout Social Network Visualization App With Memgraph and D3.js](https://memgraph.com/blog/visualize-the-bitclout-network-using-d3js).
 - [How to Build a Flight Network Analysis Graph-Based ASP.NET Application with Memgraph, C#, and D3.js](https://memgraph.com/blog/how-to-build-a-flight-network-analysis-graph-asp-net-application-with-memgraph-c-sharp-and-d3-js).
 - [How to Develop a Credit Card Fraud Detection Application using Memgraph, Flask, and D3.js](https://memgraph.com/blog/how-to-develop-a-credit-card-fraud-detection-application-using-memgraph-flask-and-d3js).
-- [How to Visualize a Social Network in Python with a Graph Database: Flask + Docker + D3.js](https://memgraph.com/blog/how-to-visualize-a-social-network-in-python-with-a-graph-database).
 - [Identifying Essential Proteins using Betweenness Centrality & Memgraph MAGE](https://memgraph.com/blog/identifying-essential-proteins).
 - [Air Traffic Routing with  Memgraph](https://memgraph.com/blog/air-traffic-routing-with-memgraph).
-- [Building a Recommendation System using Memgraph](https://memgraph.com/blog/building-a-recommendation-system-using-memgraph).
 - [Exploring Interpersonal Relationships in the Bible](https://memgraph.com/blog/exploring-the-hebrew-bible-person-relationships).
 - [How to Implement Custom JSON Utility Procedures With Memgraph MAGE and Python](https://memgraph.com/blog/how-to-implement-custom-json-utility-procedures-with-memgraph-mage-and-python).
 - [How to Write Custom Cypher Procedures with NetworkX and Memgraph](https://memgraph.com/blog/how-to-write-custom-cypher-procedures-with-networkx-and-memgraph).
@@ -106,7 +104,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 - [Introduction to Node Embedding](https://memgraph.com/blog/introduction-to-node-embedding).
 - [Recommendation System Using Online Node2Vec with Memgraph MAGE](https://memgraph.com/blog/online-node2vec-recommendation-system).
 - [Twitch Streaming Graph Analysis - Part 1](https://memgraph.com/blog/twitch-streaming-graph-analysis).
-- [Identifying Essential Proteins using Betweenness Centrality & Memgraph MAGE](https://memgraph.com/blog/identifying-essential-proteins).
+- Identifying Essential Proteins using Betweenness Centrality & Memgraph MAGE](https://memgraph.com/blog/identifying-essential-proteins).
 - [Optimizing Telco Networks With Graph Coloring & Memgraph MAGE](https://memgraph.com/blog/optimizing-telco-networks-with-graph-coloring-and-memgraph-mage).
 - [Vislet -- visualize geographic data in Memgraph Lab](https://memgraph.com/blog/vislet-visualize-geographic-data-in-memgraph-lab).
 - [How to style your graphs in Memgraph Lab](https://memgraph.com/blog/how-to-style-your-graphs-in-memgraph-lab).
