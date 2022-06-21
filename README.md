@@ -25,7 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Documentation
 
-- [Memgraph documentation](https://memgraph.com/docs
+- [Memgraph documentation](https://memgraph.com/docs)
 - [Getting started with Memgraph](https://memgraph.com/docs/memgraph)
 - [Getting started with Cypher](https://memgraph.com/docs/cypher-manual)
 
