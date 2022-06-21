@@ -25,11 +25,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Documentation
 
-- [Memgraph documentation](https://memgraph.com/docs) - Guides, samples and references to analyze your data with Memgraph.
+- [Memgraph documentation](https://memgraph.com/docs) — Guides, samples and references to analyze your data with Memgraph.
 
-- [Getting started with Memgraph](https://memgraph.com/docs/memgraph) - Memgraph is the platform for graph computation on streaming data. It's an end-to-end platform designed to solve complex graph problems in real-time and accelerate graph application development.
+- [Getting started with Memgraph](https://memgraph.com/docs/memgraph) — Memgraph is the platform for graph computation on streaming data. It's an end-to-end platform designed to solve complex graph problems in real-time and accelerate graph application development.
 
-- [Getting started with Cypher](https://memgraph.com/docs/cypher-manual) - Cypher is the most widely adopted, fully-specified, and open query language for property graph databases. It provides an intuitive way to work with property graphs.
+- [Getting started with Cypher](https://memgraph.com/docs/cypher-manual) — Cypher is the most widely adopted, fully-specified, and open query language for property graph databases. It provides an intuitive way to work with property graphs.
 
 ### Docker images
 
@@ -37,11 +37,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Tools
 
-- [Memgraph Lab](https://memgraph.com/lab) - Memgraph Lab is a lightweight and intuitive visual user interface and the easiest way to explore and manipulate your Memgraph data.
+- [Memgraph Lab](https://memgraph.com/lab) — Memgraph Lab is a lightweight and intuitive visual user interface and the easiest way to explore and manipulate your Memgraph data.
 
-- [GQLAlchemy](https://github.com/memgraph/gqlalchemy) - GQLAlchemy is a fully open-source Python library and Object Graph Mapper (OGM) - a link between graph database objects and Python objects.
+- [GQLAlchemy](https://github.com/memgraph/gqlalchemy) — GQLAlchemy is a fully open-source Python library and Object Graph Mapper (OGM) - a link between graph database objects and Python objects.
 
-- [MAGE](https://github.com/memgraph/mage) - Memgraph Advanced Graph Extensions (MAGE) is an open-source repository that contains graph algorithms and modules written by the team behind Memgraph and its users in the form of query modules.
+- [MAGE](https://github.com/memgraph/mage) — Memgraph Advanced Graph Extensions (MAGE) is an open-source repository that contains graph algorithms and modules written by the team behind Memgraph and its users in the form of query modules.
 
 ## Articles
 
