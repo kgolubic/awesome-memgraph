@@ -96,7 +96,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 - [JavaScript](https://memgraph.com/docs/memgraph/connect-to-memgraph/drivers/javascript).
 - [PHP](https://memgraph.com/docs/memgraph/connect-to-memgraph/drivers/php).
 
-##  Applications 
+## Applications 
 
 - [Analyze Infrastructure Networks with Dynamic Betweenness Centrality](https://memgraph.com/blog/analyze-infrastructure-networks-with-dynamic-betweenness-centrality).
 - [Monitoring a Dynamic Contact Network with Online Community Detection](https://memgraph.com/blog/monitoring-dynamic-contact-network-with-online-community-detection).
