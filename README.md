@@ -1,11 +1,12 @@
 Awesome Memgraph 
-==============
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Memgraph resources, libraries, tools and applications.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by contributing!
 
+==============
 
 ## Contents
 
