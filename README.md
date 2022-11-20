@@ -4,6 +4,10 @@
 
 > Useful resources  for learning and working with [Memgraph](https://memgraph.com)
 
+Memgraph is an open source graph database built for real time streaming data,
+compatible with Neo4j. It is an in-memory graph database that uses Cypher as a
+query language.
+
 
 ## Contents
 
