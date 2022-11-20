@@ -2,7 +2,7 @@
 
 [<img src="memgraph-logo.png" align="right" width="100">](https://memgraph.com)
 
-A curated list of awesome Memgraph resources, libraries, tools and applications.
+> Useful resources  for learning and working with [Memgraph](https://memgraph.com)
 
 
 ## Contents
@@ -49,7 +49,7 @@ A curated list of awesome Memgraph resources, libraries, tools and applications.
 
 - [Memgraph 2.1 Live Demo with Dominik, CEO & Marko, CTO](https://www.youtube.com/watch?v=ayyRy5Ln-uY)
 - [Graph-based stream processing with Apache Kafka](https://www.youtube.com/watch?v=qOtOfaCF53k)
-- [MAGE 1.1 Live Demo - Analyzing a Twitter network with PageRank, node2vec & Community detection](https://www.youtube.com/watch?v=dn154j4sypo)
+- [MAGE 1.1 Live Demo](https://www.youtube.com/watch?v=dn154j4sypo) - Analyzing a Twitter network with PageRank, node2vec & Community detection
 - [GQLAlchemy 1.1 demo](https://www.youtube.com/watch?v=r5YVD_1D8G8)
 
 ## Tutorials
