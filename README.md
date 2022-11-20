@@ -39,7 +39,7 @@
 
 - [Graph Database vs Relational Database](https://memgraph.com/blog/graph-database-vs-relational-database)
 - [How to migrate from Neo4j to Memgraph](https://memgraph.com/blog/how-to-migrate-from-neo4j-to-memgraph)
-- [Temporal graph neural networks with PyTorch - How to create a simple recommendation engine on an Amazon dataset](https://memgraph.com/blog/amazon-user-item-recommender-with-tgn-and-memgraph)
+- [Temporal graph neural networks with PyTorch](https://memgraph.com/blog/amazon-user-item-recommender-with-tgn-and-memgraph)  - How to create a simple recommendation engine on an Amazon dataset
 - [How to use GQLAlchemy query builder?](https://memgraph.com/blog/gqlalchemy-query-builder)
 - [How to manage Memgraph Docker instances in Python](https://memgraph.com/blog/running-memgraph-with-python)
 - [Importing Table Data into a Graph Database with GQLAlchemy](https://memgraph.com/blog/jupyter-translate-data-to-graph-database)
@@ -47,10 +47,10 @@
 
 ## Talks
 
-- [Memgraph 2.1 Live Demo with Dominik, CEO & Marko, CTO](https://www.youtube.com/watch?v=ayyRy5Ln-uY)
+- [Memgraph 2.1](https://www.youtube.com/watch?v=ayyRy5Ln-uY) - Live Demo with Dominik, CEO & Marko, CTO
 - [Graph-based stream processing with Apache Kafka](https://www.youtube.com/watch?v=qOtOfaCF53k)
 - [MAGE 1.1 Live Demo](https://www.youtube.com/watch?v=dn154j4sypo) - Analyzing a Twitter network with PageRank, node2vec & Community detection
-- [GQLAlchemy 1.1 demo](https://www.youtube.com/watch?v=r5YVD_1D8G8)
+- [GQLAlchemy 1.1](https://www.youtube.com/watch?v=r5YVD_1D8G8) - Demo
 
 ## Tutorials
 
@@ -92,15 +92,15 @@
 
 - [Analyze Infrastructure Networks with Dynamic Betweenness Centrality](https://memgraph.com/blog/analyze-infrastructure-networks-with-dynamic-betweenness-centrality)
 - [Monitoring a Dynamic Contact Network with Online Community Detection](https://memgraph.com/blog/monitoring-dynamic-contact-network-with-online-community-detection)
-- [LabelRankT -- Community Detection in Dynamic Environment](https://memgraph.com/blog/labelrankt-community-detection-in-dynamic-environment)
+- [LabelRankT](https://memgraph.com/blog/labelrankt-community-detection-in-dynamic-environment) -  Community Detection in Dynamic Environment
 - [Link prediction with Node2Vec in Physics Collaboration Network](https://memgraph.com/blog/link-prediction-with-node2vec-in-physics-collaboration-network)
-- [How Node2Vec Works -- A Random Walk-Based Node Embedding Method](https://memgraph.com/blog/how-node2vec-works)
+- [How Node2Vec Works](https://memgraph.com/blog/how-node2vec-works) - A Random Walk-Based Node Embedding Method
 - [Introduction to Node Embedding](https://memgraph.com/blog/introduction-to-node-embedding)
 - [Recommendation System Using Online Node2Vec with Memgraph MAGE](https://memgraph.com/blog/online-node2vec-recommendation-system)
-- [Twitch Streaming Graph Analysis - Part 1](https://memgraph.com/blog/twitch-streaming-graph-analysis)
+- [Twitch Streaming Graph Analysis](https://memgraph.com/blog/twitch-streaming-graph-analysis)
 - [Identifying Essential Proteins using Betweenness Centrality & Memgraph MAGE](https://memgraph.com/blog/identifying-essential-proteins)
 - [Optimizing Telco Networks With Graph Coloring & Memgraph MAGE](https://memgraph.com/blog/optimizing-telco-networks-with-graph-coloring-and-memgraph-mage)
-- [Vislet -- visualize geographic data in Memgraph Lab](https://memgraph.com/blog/vislet-visualize-geographic-data-in-memgraph-lab)
+- [Vislet](https://memgraph.com/blog/vislet-visualize-geographic-data-in-memgraph-lab) - Visualize geographic data in Memgraph Lab
 - [How to style your graphs in Memgraph Lab](https://memgraph.com/blog/how-to-style-your-graphs-in-memgraph-lab)
 - [Air Traffic Routing with Memgraph](https://memgraph.com/blog/air-traffic-routing-with-memgraph)
 - [Building a Recommendation System using Memgraph](https://memgraph.com/blog/building-a-recommendation-system-using-memgraph)
