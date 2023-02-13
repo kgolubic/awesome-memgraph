@@ -1,6 +1,6 @@
 # Awesome Memgraph [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="memgraph-logo.png" align="right" width="200">](https://memgraph.com)
+[<img src="memgraph-logo.png" align="right" width="150">](https://memgraph.com)
 
 > Useful resources  for learning and working with [Memgraph](https://memgraph.com)
 
