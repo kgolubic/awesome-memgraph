@@ -1,6 +1,6 @@
 # Awesome Memgraph [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="memgraph-logo.png" align="right" width="100">](https://memgraph.com)
+[<img src="memgraph-logo.png" align="right" width="200">](https://memgraph.com)
 
 > Useful resources  for learning and working with [Memgraph](https://memgraph.com)
 
@@ -35,9 +35,9 @@ query language.
 
 ### Tools
 
-- [Memgraph Lab](https://memgraph.com/lab)
-- [GQLAlchemy](https://github.com/memgraph/gqlalchemy)
-- [MAGE](https://github.com/memgraph/mage)
+- [Memgraph Lab](https://memgraph.com/lab) - a visual user interface that helps you explore and manipulate the data stored in Memgraph
+- [GQLAlchemy](https://memgraph.com/gqlalchemy) - a standalone Object Grap Mapper (OGM) for Python that allows you to write object-oriented code to communicate with graph databases
+- [MAGE](https://memgraph.com/mage) - n open-source library that contains graph algorithms in the form of query modules you can use right away with our graph database
 
 ## Articles
 
@@ -98,7 +98,7 @@ query language.
 - [Monitoring a Dynamic Contact Network with Online Community Detection](https://memgraph.com/blog/monitoring-dynamic-contact-network-with-online-community-detection)
 - [LabelRankT](https://memgraph.com/blog/labelrankt-community-detection-in-dynamic-environment) -  Community Detection in Dynamic Environment
 - [Link prediction with Node2Vec in Physics Collaboration Network](https://memgraph.com/blog/link-prediction-with-node2vec-in-physics-collaboration-network)
-- [How Node2Vec Works](https://memgraph.com/blog/how-node2vec-works) - A Random Walk-Based Node Embedding Method
+- [How Node2Vec works](https://memgraph.com/blog/how-node2vec-works) - A random walk-based node embedding method
 - [Introduction to Node Embedding](https://memgraph.com/blog/introduction-to-node-embedding)
 - [Recommendation System Using Online Node2Vec with Memgraph MAGE](https://memgraph.com/blog/online-node2vec-recommendation-system)
 - [Twitch Streaming Graph Analysis](https://memgraph.com/blog/twitch-streaming-graph-analysis)
