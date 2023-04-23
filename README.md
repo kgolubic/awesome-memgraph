@@ -37,14 +37,14 @@ query language.
 
 - [Memgraph Lab](https://memgraph.com/lab) - a visual user interface that helps you explore and manipulate the data stored in Memgraph.
 - [GQLAlchemy](https://memgraph.com/gqlalchemy) - a standalone Object Grap Mapper (OGM) for Python that allows you to write object-oriented code to communicate with graph databases.
-- [MAGE](https://memgraph.com/mage) - n open-source library that contains graph algorithms in the form of query modules you can use right away with our graph database.
+- [MAGE](https://memgraph.com/mage) - an open-source library that contains graph algorithms in the form of query modules you can use right away with our graph database.
 
 ## Articles
 
 - [Graph Database vs Relational Database](https://memgraph.com/blog/graph-database-vs-relational-database).
 - [How to migrate from Neo4j to Memgraph](https://memgraph.com/blog/how-to-migrate-from-neo4j-to-memgraph).
 - [Temporal graph neural networks with PyTorch](https://memgraph.com/blog/amazon-user-item-recommender-with-tgn-and-memgraph)  - How to create a simple recommendation engine on an Amazon dataset.
-- [How to use GQLAlchemy query builder?](https://memgraph.com/blog/gqlalchemy-query-builder).
+- [How to use GQLAlchemy query builder?](https://memgraph.com/blog/gqlalchemy-query-builder)
 - [How to manage Memgraph Docker instances in Python](https://memgraph.com/blog/running-memgraph-with-python).
 - [Importing Table Data into a Graph Database with GQLAlchemy](https://memgraph.com/blog/jupyter-translate-data-to-graph-database).
 - [Exploring a Twitter Network with Memgraph in a Jupyter Notebook](https://memgraph.com/blog/jupyter-notebook-twitter-network-analysis).
