@@ -83,14 +83,14 @@ query language.
 
 ## Drivers
 
-- [Python](https://memgraph.com/docs/memgraph/connect-to-memgraph/drivers/python) - driver for  conecting to Memgraph using Python.
-- [Rust](https://memgraph.com/docs/memgraph/connect-to-memgraph/drivers/rust) - driver for  conecting to Memgraph using Rust.
-- [C#](https://memgraph.com/docs/memgraph/connect-to-memgraph/drivers/c-sharp) - driver for  conecting to Memgraph using C#.
-- [Java](https://memgraph.com/docs/memgraph/connect-to-memgraph/drivers/java) - driver for  conecting to Memgraph using Java.
-- [Go](https://memgraph.com/docs/memgraph/connect-to-memgraph/drivers/go) - driver for  conecting to Memgraph using Go.
-- [Node.js](https://memgraph.com/docs/memgraph/connect-to-memgraph/drivers/nodejs) - driver for  conecting to Memgraph using Node.js.
-- [JavaScript](https://memgraph.com/docs/memgraph/connect-to-memgraph/drivers/javascript) - driver for  conecting to Memgraph using JavaScript.
-- [PHP](https://memgraph.com/docs/memgraph/connect-to-memgraph/drivers/php) - driver for  conecting to Memgraph using PHP.
+- [Python](https://memgraph.com/docs/memgraph/connect-to-memgraph/drivers/python) - driver for connecting to Memgraph using Python.
+- [Rust](https://memgraph.com/docs/memgraph/connect-to-memgraph/drivers/rust) - driver for connecting to Memgraph using Rust.
+- [C#](https://memgraph.com/docs/memgraph/connect-to-memgraph/drivers/c-sharp) - driver for connecting to Memgraph using C#.
+- [Java](https://memgraph.com/docs/memgraph/connect-to-memgraph/drivers/java) - driver for connecting to Memgraph using Java.
+- [Go](https://memgraph.com/docs/memgraph/connect-to-memgraph/drivers/go) - driver for connecting to Memgraph using Go.
+- [Node.js](https://memgraph.com/docs/memgraph/connect-to-memgraph/drivers/nodejs) - driver for connecting to Memgraph using Node.js.
+- [JavaScript](https://memgraph.com/docs/memgraph/connect-to-memgraph/drivers/javascript) - driver for connecting to Memgraph using JavaScript.
+- [PHP](https://memgraph.com/docs/memgraph/connect-to-memgraph/drivers/php) - driver for connecting to Memgraph using PHP.
 
 ## Applications 
 
